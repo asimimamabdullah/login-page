@@ -1,0 +1,23 @@
+.inputField {
+	min-width: 200px;
+	padding: 12px 20px;
+	font-size: medium;
+	margin: 10px 0;
+	border-radius: 40px;
+}
+
+.input {
+	border: 1px solid grey;
+}
+
+.button {
+	background: rgb(41, 39, 39);
+	color: white;
+	cursor: pointer;
+	border: none;
+	transition: background 0.3s ease;
+}
+
+.button:hover {
+	background: dodgerblue;
+}
